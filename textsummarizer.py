@@ -9,7 +9,6 @@ Original file is located at
 
 #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
 
-pip install streamlit langchain openai tiktoken
 
 from traitlets.config.loader import load_pyconfig_files
 import streamlit as st
