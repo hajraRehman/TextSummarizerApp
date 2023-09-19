@@ -9,8 +9,6 @@ Original file is located at
 
 #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
 
-
-from traitlets.config.loader import load_pyconfig_files
 import streamlit as st
 from langchain import OpenAI
 from langchain.docstore.document import Document
